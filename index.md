@@ -1,2 +1,2 @@
 # Recipes
-- [PB Chocolate Chip Cookies](https://github.com/jwcain/Recipes/blob/main/PB%20Cookies.md)
+- [PB Chocolate Chip Cookies](https://github.com/jwcain/Recipes/blob/main/PBCookies/index.md)
