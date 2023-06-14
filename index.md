@@ -1,2 +1,2 @@
 # Recipes
-- [PB Chocolate Chip Cookies](PB_Cookies.md)
+- [Peanut Butter Chocolate Chip Cookies](https://recipes.justinwcain.com/PB_Cookies.md)
