@@ -1,7 +1,7 @@
 # PB Chocolate Chunk Cookies
 My favorite dessert that I make too often. These cookies carry a nice peanut butter flavor without overwhelming the chocolate and have a nice, salty kick. A recipe highlight is the unusual step of literally hand mixing the flour and peanut butter together.
 
-![alt text](https://github.com/jwcain/Recipes/blob/main/photo_2023-05-12_20-34-22.jpg?raw=true)
+![alt text](https://github.com/jwcain/Recipes/blob/main/PBCookies/photo_2023-05-12_20-34-22.jpg?raw=true)
 ## Ingredients
 - 1 + 1/2 Cups Flour
 - 1/2 TSP Salt
