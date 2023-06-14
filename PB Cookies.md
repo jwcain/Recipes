@@ -1,35 +1,35 @@
 # PB Chocolate Chunk Cookies
 My favorite dessert that I make too often. These cookies carry a nice peanut butter flavor without overwhelming the chocolate and have a nice, salty kick. A recipe highlight is the unusual step of literally hand mixing the flour and peanut butter together.
 ## Ingredients
-1 + 1/2 Cups Flour
-1/2 TSP Salt
-3/4 TSP Baking Soda
-1 Cup Peanut Butter
-1 Stick Unsalted Butter
-3/4 Cup White Sugar
-1/4 Cup Light Brown Sugar
-2 TBSP Pure Maple Syrup
-2 Egg (1 whole + 1 yolk)
-1 TBSP Vanilla
-1 bar (3.5oz) Bittersweet Chocolate ~70% Cacao
+- 1 + 1/2 Cups Flour
+- 1/2 TSP Salt
+- 3/4 TSP Baking Soda
+- 1 Cup Peanut Butter
+- 1 Stick Unsalted Butter
+- 3/4 Cup White Sugar
+- 1/4 Cup Light Brown Sugar
+- 2 TBSP Pure Maple Syrup
+- 2 Egg (1 whole + 1 yolk)
+- 1 TBSP Vanilla
+- 1 bar (3.5oz) Bittersweet Chocolate ~70% Cacao
 
 
 ## For Finishing
-1/2 Cup White Sugar
-Large Sea Salt
+-1/2 Cup White Sugar
+- Large Sea Salt
 
 ## Equipment
-Oven
-2 Baking Sheets
-Parchment Paper
-Double Boiler or Microwave
-Medium Heatproof or Microwave safe bowl, depending
-Large mixing bowl
-Rubber Spatula
-One extra-clean hand
-Fork
-Whisk
-Cooling Racks
+- Oven
+- 2 Baking Sheets
+- Parchment Paper
+- Double Boiler or Microwave
+- Medium Heatproof or Microwave safe bowl, depending
+- Large mixing bowl
+- Rubber Spatula
+- One extra-clean hand
+- Fork
+- Whisk
+- Cooling Racks
 
 
 # Steps
